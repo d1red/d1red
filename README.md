@@ -2,10 +2,10 @@
 
 # **Education:** #
 ### Udmurt State University, Izhevsk 
-Information Technology and Computer Engineering, Applied Computer Science (by field) (2014-2018) 
+Information Technology and Computer Engineering, Applied Computer Science (by field) (2014-2018) <br>
 
 
-**Professional experience:** 
+# **Professional experience:** #
 <details>
 
 <summary>SADKO SCIENTIFIC AND PRODUCTION ASSOCIATION LLC</summary>
