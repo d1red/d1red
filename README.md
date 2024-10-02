@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, my name is Dima 👋
 
+**Education:** 
+Udmurt State University, Izhevsk
+Information Technology and Computer Engineering, Applied Computer Science (by field)(2014-2018)
 <!--
 **d1red/d1red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
