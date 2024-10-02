@@ -1,4 +1,5 @@
 # Hi, my name is Dima 👋 #
+<img src="https://github.com/d1red/d1red/blob/b1d3ae9f05a92fcb3536f6f5467fc751e67dabad/logo.jpg" alt="I" width="240" align="right"/> 
 
 ## **Education:** ##
 #### Udmurt State University, Izhevsk 
