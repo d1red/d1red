@@ -4,7 +4,7 @@
 Udmurt State University, Izhevsk
 Information Technology and Computer Engineering, Applied Computer Science (by field) (2014-2018)
 
-**Professional experience:** \
+**Professional experience:** 
 <details>
 
 <summary>SADKO SCIENTIFIC AND PRODUCTION ASSOCIATION LLC</summary>
@@ -13,9 +13,9 @@ Information Technology and Computer Engineering, Applied Computer Science (by fi
 
 February 2018 — July 2018
 
-Creating websites on CMS WordPress, OpenCart, Drupal. 
-Creating web interfaces for websites. 
-The introduction of new functionality to the site, for example, the addition of a discount system or the introduction of filter pages for different product categories.
+* Creating websites on CMS WordPress, OpenCart, Drupal. 
+* Creating web interfaces for websites. 
+* The introduction of new functionality to the site, for example, the addition of a discount system or the introduction of filter pages for different product categories.
 
 </details>
 <!--
