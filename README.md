@@ -1,16 +1,16 @@
 ## Hi, my name is Dima 👋
 
-# **Education:** #
-### Udmurt State University, Izhevsk 
+## **Education:** ##
+#### Udmurt State University, Izhevsk 
 Information Technology and Computer Engineering, Applied Computer Science (by field) (2014-2018) <br>
 
 
-# **Professional experience:** #
+## **Professional experience:** ##
 <details>
 
 <summary>SADKO SCIENTIFIC AND PRODUCTION ASSOCIATION LLC</summary>
 
-### Software Engineer
+#### Software Engineer
 
 February 2018 — July 2018
 
