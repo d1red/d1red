@@ -1,8 +1,8 @@
 ## Hi, my name is Dima 👋
 
-> [!NOTE] 
-> Udmurt State University, Izhevsk 
-> Information Technology and Computer Engineering, Applied Computer Science (by field) (2014-2018) 
+**Education:** 
+# Udmurt State University, Izhevsk #
+Information Technology and Computer Engineering, Applied Computer Science (by field) (2014-2018) 
 
 
 **Professional experience:** 
