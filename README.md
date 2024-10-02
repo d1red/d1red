@@ -1,10 +1,11 @@
 ## Hi, my name is Dima 👋
 
-** ###Education:** \
+**Education:**
+
 Udmurt State University, Izhevsk
 Information Technology and Computer Engineering, Applied Computer Science (by field) (2014-2018)
 
-** ###Professional experience:** 
+**Professional experience:** 
 <details>
 
 <summary>SADKO SCIENTIFIC AND PRODUCTION ASSOCIATION LLC</summary>
@@ -18,17 +19,16 @@ February 2018 — July 2018
 * The introduction of new functionality to the site, for example, the addition of a discount system or the introduction of filter pages for different product categories.
 
 </details>
-<!--
-**d1red/d1red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<summary>LLC "DOC.RU</summary>
+
+### Software Engineer
+
+September 2018 — January 2019
+
+* Participation in the design and development of solutions in the field of electronic document management systems (EDMS).
+* Development of automated workstations (APMs) on WPF or ASP.NET
+
+</details>
