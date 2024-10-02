@@ -1,4 +1,4 @@
-## Hi, my name is Dima 👋
+# Hi, my name is Dima 👋 #
 
 ## **Education:** ##
 #### Udmurt State University, Izhevsk 
