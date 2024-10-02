@@ -1,5 +1,5 @@
 # Hi, my name is  Dmitrii Egorov
-I am a future neural network developer
+I am developer. I am currently taking retraining courses for a neural network developer. 
 
 ## **Education:** ##
 #### Udmurt State University, Izhevsk 
